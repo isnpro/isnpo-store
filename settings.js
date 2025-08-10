@@ -14,9 +14,9 @@ const storeSettings = {
     whatsappChannelLink: "https://whatsapp.com/channel/yourchannel",
     telegramGroupLink: "https://t.me/yourtelegramgroup",
     
-    // Telegram Bot
-    botToken: "8113712218:AAESXcy7qxOb6lF0T31D7Jc10w36vSY6nEw",
-    ownerChatId: "5726066125", // Your Telegram chat ID to receive orders
+        // Telegram settings
+    telegramBotToken: '8113712218:AAESXcy7qxOb6lF0T31D7Jc10w36vSY6nEw', // Will be set in Vercel environment variables
+    telegramChatId: '5726066125', // Your personal chat ID or group ID
     
     // Payment Information
     qrisImage: "https://via.placeholder.com/300x300?text=QRIS+Payment",
