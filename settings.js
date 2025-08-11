@@ -35,7 +35,7 @@ const storeSettings = {
             description: "Bot jaga grub WhatsApp only, untuk para jb yang risih adanya unchek, linkgrub, suntik, bokep, dll",
             imageOpen: "https://img1.pixhost.to/images/7835/630437361_ochobot.jpg",
             imageClosed: "https://img1.pixhost.to/images/7853/630630381_ochobot.jpg",
-            status: "close",
+            status: "open",
             variants: [
                 { name: "1 Minggu", price: 1000 },
                 { name: "2 Minggu", price: 2000 },
