@@ -86,7 +86,7 @@ const storeSettings = {
             description: "Panel Pterodactyl bisa req username dan berfungi run script, tentunya ada garansi 15 hari masa aktif panel 30h",
             imageOpen: "https://img1.pixhost.to/images/7835/630437361_ochobot.jpg",
             imageClosed: "https://img1.pixhost.to/images/7853/630630381_ochobot.jpg",
-            status: "open",
+            status: "close",
             variants: [
                 { name: "Panel 5Gb", price: 3000 },
                 { name: "Panel 10Gb", price: 5000 },
